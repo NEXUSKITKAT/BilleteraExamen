@@ -11,8 +11,6 @@ public class CBilletera {
 		CBilletera miBilletera = new CBilletera();
 		System.out.println("Saldo inicial: " + miBilletera.saldo);
 
-
-
 		miBilletera.anadirDinero(-20);
 
 		miBilletera.anadirDinero(50);
